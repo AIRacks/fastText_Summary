@@ -1,0 +1,15 @@
+[submodule "fastrtext"]
+	path = fastrtext
+	url = https://github.com/pommedeterresautee/fastrtext
+[submodule "fastText"]
+	path = fastText
+	url = https://github.com/facebookresearch/fastText
+[submodule "fastText.py"]
+	path = fastText.py
+	url = https://github.com/salestock/fastText.py
+[submodule "JFastText"]
+	path = JFastText
+	url = https://github.com/vinhkhuc/JFastText
+[submodule "pyfasttext"]
+	path = pyfasttext
+	url = https://github.com/vrasneur/pyfasttext
