@@ -1,3 +1,6 @@
+[submodule "FASText"]
+	path = FASText
+	url = https://github.com/MichalBusta/FASText
 [submodule "fastrtext"]
 path=fastrtext
 url = https://github.com/pommedeterresautee/fastrtext
@@ -5,8 +8,8 @@ url = https://github.com/pommedeterresautee/fastrtext
 path=fastText
 url = https://github.com/facebookresearch/fastText
 [submodule "fasttext-js"]
-	path = fasttext-js
-	url = https://github.com/callemall/fasttext-js
+path=fasttext-js
+url = https://github.com/callemall/fasttext-js
 [submodule "fastText.py"]
 path=fastText.py
 url = https://github.com/salestock/fastText.py
