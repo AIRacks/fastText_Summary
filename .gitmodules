@@ -1,6 +1,9 @@
+[submodule "Awesome-Scene-Text-Recognition"]
+	path = Awesome-Scene-Text-Recognition
+	url = https://github.com/chongyangtao/Awesome-Scene-Text-Recognition
 [submodule "FASText"]
-	path = FASText
-	url = https://github.com/MichalBusta/FASText
+path=FASText
+url = https://github.com/MichalBusta/FASText
 [submodule "fastrtext"]
 path=fastrtext
 url = https://github.com/pommedeterresautee/fastrtext

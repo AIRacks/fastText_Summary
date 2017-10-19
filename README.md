@@ -9,4 +9,5 @@ fastText is a library for efficient learning of word representations and sentenc
 - Java Wrapper : https://github.com/vinhkhuc/JFastText
 
 2) Scene Text Detection :
-https://github.com/MichalBusta/FASText
+- https://github.com/MichalBusta/FASText
+- Other Referece : https://github.com/chongyangtao/Awesome-Scene-Text-Recognition
